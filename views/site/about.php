@@ -11,7 +11,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>
-        This is SHAHRIL ANUARda:
+        This is SHAHRIL ANUAR bin md din:
     </p>
 
     <code><?= __FILE__ ?></code>
